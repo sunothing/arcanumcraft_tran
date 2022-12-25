@@ -1,0 +1,23 @@
+{
+  "item.decoration_delight.stool_entity_spawn_egg": "板凳实体刷怪蛋",
+  "block.decoration_delight.dark_oak_board": "深色橡木案板",
+  "entity.decoration_delight.stool_entity": "板凳实体",
+  "advancements.trash_bin_advancement.descr": "获得垃圾桶",
+  "block.decoration_delight.spruce_counter_corner": "云杉木柜台角落",
+  "block.decoration_delight.dark_oak_counter": "深色橡木柜台",
+  "block.decoration_delight.andesite_tiles": "安山岩瓷砖",
+  "block.decoration_delight.stone_tiles": "石瓷砖",
+  "block.decoration_delight.diorite_tiles": "闪长岩瓷砖",
+  "block.decoration_delight.spruce_stool": "云杉木板凳",
+  "advancements.trash_bin_advancement.title": "果皮啊，垃圾啊，一定要丢进垃圾桶里面",
+  "block.decoration_delight.spruce_counter": "云杉木柜台",
+  "block.decoration_delight.trash_bin": "垃圾桶",
+  "block.decoration_delight.dark_oak_counter_bend": "深色橡木柜台转角",
+  "itemGroup.tabdecoration_delight_tab": "装饰乐事",
+  "block.decoration_delight.dark_oak_counter_corner": "深色橡木柜台角落",
+  "block.decoration_delight.spruce_board": "云杉木案板",
+  "block.decoration_delight.granite_tiles": "花岗岩瓷砖",
+  "block.decoration_delight.oak_counter": "橡木柜台",
+  "block.decoration_delight.spruce_counter_bend": "云杉木柜台转角",
+  "block.decoration_delight.oak_stool": "橡木板凳"
+}
